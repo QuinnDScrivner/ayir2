@@ -1,0 +1,56 @@
+body {
+  background-color: forestgreen;
+}
+.sr-only {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#titleText {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+#Quinn {
+  width: 20em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rounded-circle {
+  border-style: groove;
+  border-color: darkgreen;
+  border-width: 1em;
+}
+.headings {
+  text-align: center;
+  border: darkgreen;
+  border-style: groove;
+  font-size: 3em;
+}
+#aText {
+  text-indent: 5%;
+  border: groove lightgreen;
+  border-right: auto;
+  border-left: auto;
+  font-size: 1.5em;
+}
+.links {
+  color: black;
+}
+#FormE {
+  color: cyan;
+  border: groove cyan;
+  font-size: 2em;
+  text-align: center;
+}
+.clip {
+  width: 256px;
+  height: 256px;
+}
+.ccode {
+  position: fixed;
+  right: 400px;
+}
+.fancy {
+  font-size: x-large;
+  font-weight: bold;
+}
